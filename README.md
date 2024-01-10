@@ -1,6 +1,8 @@
 # Face Detection
 
-> It's a algorithm created for project in the Image Processing discipline. 
+> It's a algorithm created for project in the Image Processing discipline at Universidade Federal de Ouro Preto. 
+
+It uses a pre-existing dataset with faces of presidents, and in this dataset, some photos of Mark Zuckerberg were manually added. During the training and prediction of the model, images are pre-processed to ensure higher accuracy. The algorithm analyzes each frame of a video, using a detector to segment the faces and the trained model to identify the face.
 
 ### Resources
 - Python Notebook
